@@ -44,7 +44,9 @@ Employer Administration System
 			"firstName": "Tim",
 			"lastName": "Cook",
 			"department": 3
-		} 
+		}
+		
 **DETAILS**
+
 1. You can add useraccount table and assign username and password details for the employee.
 2. You can also create a system account who handles all the creation and deleting of employee and department.
